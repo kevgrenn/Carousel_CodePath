@@ -81,10 +81,11 @@ class SignInViewController: UIViewController, UIScrollViewDelegate {
         let alertController  = UIAlertController(title: "Email Required", message: "Please enter your email address.", preferredStyle: .Alert)
             
             let cancelAction = UIAlertAction(title: "OK", style: .Cancel) { (action) in
-        }
+            }
             alertController.addAction(cancelAction)
             presentViewController(alertController, animated: true){
             }
+            self.activityIndicator.stopAnimating()
         }else if emailField.text == "email" && passwordField.text == "password"{
             delay(2, closure: { () -> () in
                 self.activityIndicator.stopAnimating()

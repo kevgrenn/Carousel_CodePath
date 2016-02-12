@@ -31,7 +31,7 @@ class createViewController: UIViewController, UIScrollViewDelegate {
         
         
         buttonInitialY = buttonParentView.frame.origin.y
-        buttonOffset = -120
+        buttonOffset = -130
         
         NSNotificationCenter.defaultCenter().addObserver(self, selector: "keyboardWillShow:", name: UIKeyboardWillShowNotification, object: nil)
         
