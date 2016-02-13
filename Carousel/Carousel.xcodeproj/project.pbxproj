@@ -19,6 +19,8 @@
 		7C4EAE221C6BA3CB00E1FC8F /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C4EAE211C6BA3CB00E1FC8F /* PhotosViewController.swift */; };
 		7C4EAE241C6BA56000E1FC8F /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C4EAE231C6BA56000E1FC8F /* SettingsViewController.swift */; };
 		7C4EAE261C6BA65B00E1FC8F /* ConversationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C4EAE251C6BA65B00E1FC8F /* ConversationsViewController.swift */; };
+		7C884E061C6FA6E20063B08B /* LearningViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C884E051C6FA6E20063B08B /* LearningViewController.swift */; };
+		7C884E081C6FB13D0063B08B /* PhotoDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C884E071C6FB13D0063B08B /* PhotoDetailViewController.swift */; };
 		7CBEC1E71C6C5D580014E918 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBEC1E61C6C5D580014E918 /* Common.swift */; };
 		7CBEC1E91C6C622F0014E918 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBEC1E81C6C622F0014E918 /* SignInViewController.swift */; };
 		7CBEC1EB1C6C79BB0014E918 /* createViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBEC1EA1C6C79BB0014E918 /* createViewController.swift */; };
@@ -61,6 +63,8 @@
 		7C4EAE211C6BA3CB00E1FC8F /* PhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
 		7C4EAE231C6BA56000E1FC8F /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		7C4EAE251C6BA65B00E1FC8F /* ConversationsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConversationsViewController.swift; sourceTree = "<group>"; };
+		7C884E051C6FA6E20063B08B /* LearningViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LearningViewController.swift; sourceTree = "<group>"; };
+		7C884E071C6FB13D0063B08B /* PhotoDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoDetailViewController.swift; sourceTree = "<group>"; };
 		7CBEC1E61C6C5D580014E918 /* Common.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
 		7CBEC1E81C6C622F0014E918 /* SignInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
 		7CBEC1EA1C6C79BB0014E918 /* createViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = createViewController.swift; sourceTree = "<group>"; };
@@ -119,6 +123,8 @@
 				7C4EADEF1C6B995900E1FC8F /* AppDelegate.swift */,
 				7C4EADF11C6B995900E1FC8F /* ViewController.swift */,
 				7C4EADF31C6B995900E1FC8F /* Main.storyboard */,
+				7C884E071C6FB13D0063B08B /* PhotoDetailViewController.swift */,
+				7C884E051C6FA6E20063B08B /* LearningViewController.swift */,
 				7CBEC1EC1C6C81E20014E918 /* TermsViewController.swift */,
 				7CBEC1EA1C6C79BB0014E918 /* createViewController.swift */,
 				7CBEC1E61C6C5D580014E918 /* Common.swift */,
@@ -291,7 +297,9 @@
 				7C4EAE1E1C6B9B9500E1FC8F /* IntroViewController.swift in Sources */,
 				7C4EAE201C6B9FDF00E1FC8F /* WelcomeViewController.swift in Sources */,
 				7C4EAE261C6BA65B00E1FC8F /* ConversationsViewController.swift in Sources */,
+				7C884E081C6FB13D0063B08B /* PhotoDetailViewController.swift in Sources */,
 				7C4EADF21C6B995900E1FC8F /* ViewController.swift in Sources */,
+				7C884E061C6FA6E20063B08B /* LearningViewController.swift in Sources */,
 				7CBEC1E91C6C622F0014E918 /* SignInViewController.swift in Sources */,
 				7CBEC1EB1C6C79BB0014E918 /* createViewController.swift in Sources */,
 				7C4EADF01C6B995900E1FC8F /* AppDelegate.swift in Sources */,

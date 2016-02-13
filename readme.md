@@ -28,18 +28,12 @@ Time : 9hours
 - Settings
 - User can dismiss the settings screen.
 - User can log out
-
-ToDo:
-Optional: Learn more about Carousel
-Optional: Show the "Learn more about Carousel" button in the photo timeline.
-Optional: Tap the X to dismiss the banner
-Optional: Track the 3 events:
-View a photo full screen
-Swipe left and right
-Share a photo
-Optional: Upon completion of the events, mark them green.
-Optional: When all events are completed, dismiss the banner.
-Create form validation
+- Optional: Learn more about Carousel
+- Optional: Show the "Learn more about Carousel" button in the photo timeline.
+- Optional: Track the 3 events:
+- View a photo full screen
+- Share a photo
+- Upon completion of the events, mark them green.
 
 
 ![alt text](https://raw.githubusercontent.com/kevgrenn/Carousel_CodePath/master/Carousel_Walkthrough.gif "Walkthrough")
